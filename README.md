@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Danish%20Inam&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Full-Stack&descAlignY=62&descSize=18" alt="Danish Inam header banner" />
 </p>
-<br>
 
 <!-- ══════════════════════ TYPING SVG ══════════════════════ -->
 <p align="center">
