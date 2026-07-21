@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Danish%20Inam&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Full-Stack&descAlignY=62&descSize=18" alt="Danish Inam header banner" />
 </p>
+<br>
 
 <!-- ══════════════════════ TYPING SVG ══════════════════════ -->
 <p align="center">
@@ -36,13 +37,13 @@
 
 ## 💫 About Me
 
-- 🧠 **AI/ML Engineer & Python developer** based in **Ireland**, studying at **Dublin City University**
-- 🔬 Building ML for **healthcare** (diabetic retinopathy detection) and **document AI** (Urdu OCR on Google DocumentAI)
-- 💻 Comfortable across the stack — I ship **full-stack apps** when a project needs them
-- 🌱 Currently deepening: **deep learning, computer vision & MLOps**
-- 🤝 Open to: **collaboration on AI/ML and open-source projects**
-- 💬 Ask me about: **Python, machine learning, computer vision, and Git/GitHub**
-- ⚡ Fun fact: **I love turning research ideas into working models**
+🧠 **AI/ML Engineer & Python developer** based in **Ireland**, studying at **Dublin City University**
+🔬 Building ML for **healthcare** (diabetic retinopathy detection) and **document AI** (Urdu OCR on Google DocumentAI)
+💻 Comfortable across the stack — I ship **full-stack apps** when a project needs them
+🌱 Currently deepening: **deep learning, computer vision & MLOps**
+🤝 Open to: **collaboration on AI/ML and open-source projects**
+💬 Ask me about: **Python, machine learning, computer vision, and Git/GitHub**
+⚡ Fun fact: **I love turning research ideas into working models**
 
 ---
 
