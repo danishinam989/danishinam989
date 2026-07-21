@@ -60,38 +60,20 @@
   <img src="https://img.shields.io/badge/Google%20DocumentAI-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google DocumentAI" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/danishinam989/AI-Opthalmology">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishinam989&repo=AI-Opthalmology&theme=tokyonight&hide_border=true" alt="AI-Ophthalmology" />
-  </a>
-  <a href="https://github.com/danishinam989/UrduOCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishinam989&repo=UrduOCR&theme=tokyonight&hide_border=true" alt="UrduOCR" />
-  </a>
-</p>
-
-- **🩺 [AI-Ophthalmology](https://github.com/danishinam989/AI-Opthalmology)** — Deep-learning pipeline for **diabetic retinopathy detection** from retinal images (Python).
-- **📄 [UrduOCR](https://github.com/danishinam989/UrduOCR)** — Optical character recognition for **Urdu** documents, powered by **Google DocumentAI**.
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danishinam989&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Danish's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishinam989&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danishinam989&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=danishinam989&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
-</p>
+</p> -->
 
 ---
 
@@ -114,7 +96,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- REPLACE-LINKEDIN: swap the href below for your real LinkedIn profile URL -->
-  <a href="https://linkedin.com/in/danish-inam">
+  <a href="https://linkedin.com/in/danishinam28">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/danishinam989">
